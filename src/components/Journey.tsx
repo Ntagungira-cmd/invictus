@@ -1,6 +1,5 @@
 import React from 'react';
 import { Calendar, Star, Trophy, Target } from 'lucide-react';
-import Journey from './Journey';
 
 const Journey = () => {
   const milestones = [
