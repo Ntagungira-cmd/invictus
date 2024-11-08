@@ -4,10 +4,10 @@ import { Github, Linkedin, Mail } from 'lucide-react';
 const Team = () => {
   const team = [
     {
-      name: 'Jean-Paul Mukasa',
+      name: 'Kamara Fidele',
       role: 'CEO & Founder',
       image:
-        'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=2070',
+        'https://res.cloudinary.com/justdoit/image/upload/v1731088513/My%20stuff/ijzqtok147to3hqrfexo.png',
       bio: 'A leader dedicated to creating impact and bring change to the African continent ',
       social: {
         linkedin: '#',
@@ -19,7 +19,7 @@ const Team = () => {
       name: 'Ntagungira Ali Rashid',
       role: 'CTO',
       image:
-        'https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&q=80&w=2070',
+        'https://res.cloudinary.com/justdoit/image/upload/v1731096870/My%20stuff/sh97tjtbtvvbbg7uxaam.jpg',
       bio: 'Satellite communications specialist with experience in remote installations.',
       social: {
         linkedin: '#',
@@ -31,7 +31,7 @@ const Team = () => {
       name: 'Niyigena Yves',
       role: 'Technical Director',
       image:
-        'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=2070',
+        'https://res.cloudinary.com/justdoit/image/upload/v1731095682/My%20stuff/crcpawxdcks4epypbido.jpg',
       bio: 'Pricipal engineer and director of TechOps',
       social: {
         linkedin: '#',
@@ -43,7 +43,7 @@ const Team = () => {
       name: 'Golbert Gauthier Kamanzi',
       role: 'Community Relations Director',
       image:
-        'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=2070',
+        'https://res.cloudinary.com/justdoit/image/upload/v1731096015/My%20stuff/zjvrvgljwffcjfpf5vvw.png',
       bio: "Expert in community development with deep understanding of DRC's rural needs",
       social: {
         linkedin: '#',

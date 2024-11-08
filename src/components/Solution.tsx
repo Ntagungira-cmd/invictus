@@ -8,18 +8,21 @@ const Solution = () => {
       title: 'Satellite Coverage',
       description:
         'Partnership with Starlink to provide high-speed internet access across the most remote areas of DRC.',
+      picture: 'https://res.cloudinary.com/justdoit/image/upload/v1731099533/My%20stuff/pdfkzhk4sls9hi2ky7r6.jpg'
     },
     {
       icon: <Users className="h-6 w-6" />,
       title: 'Community First',
       description:
         'Local outreach programs and education initiatives to help communities embrace digital connectivity.',
+        picture: 'https://res.cloudinary.com/justdoit/image/upload/v1731100179/My%20stuff/aisdiemuj80n3gefzbxi.png'
     },
     {
       icon: <Shield className="h-6 w-6" />,
       title: 'Reliable Support',
       description:
-        'Dedicated local support teams and efficient installation services across the country.',
+        'Dedicated local tech support teams and efficient installation services across the country.',
+        picture: 'https://res.cloudinary.com/justdoit/image/upload/v1731099624/My%20stuff/cj9xmm735oi9d82bkkfh.jpg'
     },
   ];
 
@@ -78,6 +81,7 @@ const Solution = () => {
                 <p className="mt-2 ml-16 text-base text-gray-500">
                   {feature.description}
                 </p>
+                <img src={feature.picture} alt={feature.title} style={{ borderRadius: "5px", marginTop: '10px'}} />
               </div>
             ))}
           </div>
