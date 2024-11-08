@@ -1,5 +1,6 @@
 import React from 'react';
 import { Calendar, Star, Trophy, Target } from 'lucide-react';
+import Journey from './Journey';
 
 const Journey = () => {
   const milestones = [
@@ -42,7 +43,7 @@ const Journey = () => {
         <div className="text-center">
           <h2 className="text-3xl font-extrabold text-gray-900 sm:text-4xl">Our Journey</h2>
           <p className="mt-4 max-w-2xl mx-auto text-xl text-gray-500">
-            From Assembling a team to developing a solution: bringing internet connectivity to the DRC
+            From Assembling a team to developing a solution: Our E-LAB Journey
           </p>
         </div>
 
