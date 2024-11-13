@@ -43,7 +43,7 @@ const Team = () => {
       name: 'Golbert Gauthier Kamanzi',
       role: 'Community Relations Director',
       image:
-        'https://res.cloudinary.com/justdoit/image/upload/v1731096015/My%20stuff/zjvrvgljwffcjfpf5vvw.png',
+        'https://res.cloudinary.com/justdoit/image/upload/v1731485375/My%20stuff/econpus7faoigfqto6nk.png',
       bio: "Expert in community development with deep understanding of DRC's rural needs",
       social: {
         linkedin: '#',
@@ -55,7 +55,7 @@ const Team = () => {
       name: 'Raoul Songa Gahima',
       role: 'Engineering and Telecommunication lead',
       image:
-        'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=2070',
+        'https://res.cloudinary.com/justdoit/image/upload/v1731485679/My%20stuff/icei5l59hyntlcxsiamx.png',
       bio: 'Former telecommunications executive with experience in African market',
       social: {
         linkedin: '#',
